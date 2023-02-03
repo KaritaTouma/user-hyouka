@@ -43,7 +43,6 @@ function App() {
     //       }
     //     });
     //     console.log("評価しました")
-    test
     // }
     // catch(error){
     //   console.error(error)
